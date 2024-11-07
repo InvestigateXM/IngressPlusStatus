@@ -4,35 +4,39 @@
     "url": "https://ingress.plus",
     "icon": "https://icons.duckduckgo.com/ip3/ingress.plus.ico",
     "slug": "ingress-plus",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 519,
-    "timeDay": 392,
-    "timeWeek": 542,
-    "timeMonth": 519,
-    "timeYear": 519,
-    "dailyMinutesDown": {}
+    "time": 501,
+    "timeDay": 306,
+    "timeWeek": 502,
+    "timeMonth": 501,
+    "timeYear": 501,
+    "dailyMinutesDown": {
+      "2024-11-07": 0
+    }
   },
   {
     "name": "Community Archive",
     "url": "https://community-archive.ingress.plus",
     "icon": "https://icons.duckduckgo.com/ip3/community-archive.ingress.plus.ico",
     "slug": "community-archive",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 533,
-    "timeDay": 435,
-    "timeWeek": 541,
-    "timeMonth": 533,
-    "timeYear": 533,
-    "dailyMinutesDown": {}
+    "time": 505,
+    "timeDay": 255,
+    "timeWeek": 483,
+    "timeMonth": 505,
+    "timeYear": 505,
+    "dailyMinutesDown": {
+      "2024-11-07": 0
+    }
   }
 ]
