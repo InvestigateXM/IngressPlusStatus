@@ -1,7 +1,7 @@
 url: https://ingress.plus
-status: up
-code: 200
-responseTime: 527
-lastUpdated: 2025-05-30T23:13:10.074Z
+status: down
+code: 502
+responseTime: 461
+lastUpdated: 2025-05-31T08:47:38.502Z
 startTime: 2024-10-24T06:51:16.442Z
 generator: Upptime <https://github.com/upptime/upptime>
