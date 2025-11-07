@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ingress.plus.ico",
     "slug": "ingress-plus",
     "status": "up",
-    "uptime": "98.76%",
-    "uptimeDay": "98.40%",
+    "uptime": "98.77%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.25%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "98.72%",
-    "time": 663,
-    "timeDay": 395,
-    "timeWeek": 611,
-    "timeMonth": 653,
-    "timeYear": 668,
+    "time": 664,
+    "timeDay": 777,
+    "timeWeek": 617,
+    "timeMonth": 659,
+    "timeYear": 669,
     "dailyMinutesDown": {
       "2025-11-05": 23,
       "2025-11-02": 52,
@@ -40,8 +40,7 @@
       "2024-11-20": 90,
       "2024-11-17": 165,
       "2024-11-13": 31,
-      "2024-11-09": 56,
-      "2024-11-07": 760
+      "2024-11-09": 56
     }
   }
 ]
