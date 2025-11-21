@@ -6,15 +6,15 @@
     "slug": "ingress-plus",
     "status": "up",
     "uptime": "98.78%",
-    "uptimeDay": "93.90%",
+    "uptimeDay": "95.45%",
     "uptimeWeek": "98.23%",
     "uptimeMonth": "99.42%",
-    "uptimeYear": "98.88%",
+    "uptimeYear": "98.90%",
     "time": 671,
-    "timeDay": 497,
-    "timeWeek": 931,
-    "timeMonth": 744,
-    "timeYear": 684,
+    "timeDay": 539,
+    "timeWeek": 945,
+    "timeMonth": 730,
+    "timeYear": 686,
     "dailyMinutesDown": {
       "2025-11-20": 88,
       "2025-11-18": 91,
@@ -37,8 +37,7 @@
       "2024-11-29": 86,
       "2024-11-24": 442,
       "2024-11-23": 242,
-      "2024-11-22": 324,
-      "2024-11-21": 436
+      "2024-11-22": 324
     }
   }
 ]
